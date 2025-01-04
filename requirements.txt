@@ -1,3 +1,8 @@
-streamlit
-streamlit_pandas_profiling
-ydata_profiling
+Flask==2.2.3
+streamlit==1.17.0
+pandas==1.5.3
+requests==2.28.2
+matplotlib==3.7.1
+ydata-profiling==4.2.0
+streamlit-pandas-profiling==0.1.6
+
